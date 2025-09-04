@@ -39,8 +39,7 @@ Thanks to the AVL tree:
   - Right-Left Rotation (RL)  
 ---
 ## ✍️ Authors
-
 - **Ahmed Mostafa**  
-  🌐 [GitHub Profile]([https://github.com/your-username](https://github.com/AhmedMostafa99a))
+  🌐 [GitHub Profile](https://github.com/AhmedMostafa99a)
 - **Belal Gamal**  
-  🌐 [GitHub Profile]([https://github.com/your-username](https://github.com/Belal-Beta))  
+  🌐 [GitHub Profile](https://github.com/Belal-Beta)
